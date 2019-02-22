@@ -15,3 +15,6 @@ To run the project itself,
 ```bash
 $ npm start
 ```
+==============================================
+download from fork
+we need to create a directer 
