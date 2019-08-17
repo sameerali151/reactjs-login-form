@@ -2,8 +2,9 @@
 
 To clone the repository on your computer 
 ```bash
-$ git clone https://github.com/kapilbarad/reactjs-login-form.git
+
 $ cd reactjs-login-form.git
+https://github.com/sameerali151/reactjs-login-form.git
 ```
 
 To install dependencies,
